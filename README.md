@@ -1,0 +1,1 @@
+# ap-vsphere-common-resources
